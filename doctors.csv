@@ -1,0 +1,151 @@
+doctor_id,full_name,specialization,experience_years,rating,consultations_per_day
+1,Christopher Horn,Pediatr,38,4.2,16
+2,Marjonova Soliha,Kardiolog,28,3.8,25
+3,Asilayeva Saida,Stomatolog,22,4.8,50
+4,Abdumalikov Laziz,Nevropatolog,25,4.5,44
+5,Любовь Станиславовна Куликова,Kardiolog,28,4.4,50
+6,Natasha George,Kardiolog,14,4.5,44
+7,Sanjar Ismoilov,Xirurg,15,3.5,20
+8,John Williams,Xirurg,6,4.2,26
+9,Anisa Yasinaeva,Kardiolog,26,3.6,30
+10,Аполлон Филимонович Рыбаков,Stomatolog,20,4.8,18
+11,Douglas Hill,Terapevt,6,,19
+12,Anvar Otabekov,Nevropatolog,26,3.9,46
+13,Леонид Елисеевич Мишин,Nevropatolog,17,4.1,15
+14,Лавр Фадеевич Тарасов,Stomatolog,38,3.8,46
+15,Наина Болеславовна Симонова,Nevropatolog,24,3.8,18
+16,Saddamov Damir,Kardiolog,28,5.0,16
+17,Amy Nguyen,Pediatr,17,3.6,35
+18,Malikova Humayra,Xirurg,10,4.5,48
+19,Dunyoeva Amira,Xirurg,32,4.8,36
+20,Харитонов Симон Федотович,Nevropatolog,31,4.1,21
+21,Jillian Moore,Xirurg,16,4.7,27
+22,Jennifer Berry,Stomatolog,31,3.6,43
+23,Зуев Фадей Андреевич,Terapevt,7,4.9,20
+24,Любим Филатович Макаров,Pediatr,6,4.9,19
+25,Gregory Mullins,Stomatolog,1,4.8,47
+26,Вадим Владиславович Белозеров,Pediatr,35,4.0,10
+27,Jennifer James,Xirurg,39,4.7,15
+28,Владимиров Моисей Дмитриевич,Terapevt,19,4.0,46
+29,Рогов Савватий Геннадиевич,Xirurg,16,4.0,37
+30,Milanova Muxlisa,Terapevt,34,4.4,49
+31,Фёкла Игоревна Бобылева,Terapevt,9,3.8,32
+32,Muhammadsolih Muhammadrizoyev,Terapevt,29,3.9,31
+33,Dr. Joel Bautista,Xirurg,2,4.0,34
+34,Shohrux Asilbekov,Stomatolog,6,4.5,45
+35,Mary Bush DDS,Xirurg,16,3.9,31
+36,Jeremy Grimes,Kardiolog,17,4.3,36
+37,Steven Williams,Kardiolog,37,4.0,30
+38,Jessica Hodge,Nevropatolog,19,,19
+39,Jennifer Taylor,Stomatolog,25,4.6,32
+40,Лапина Варвара Васильевна,Xirurg,20,3.6,18
+41,Вацлав Юльевич Потапов,Terapevt,37,4.8,48
+42,Sardorov Jasur,Xirurg,16,4.0,44
+43,Kevin Greene,Xirurg,28,4.2,14
+44,Victoria Lee,Pediatr,6,4.3,24
+45,Милица Игоревна Михеева,Xirurg,25,4.6,25
+46,Muhammadyusupov Shohrux,Pediatr,13,3.9,31
+47,Yasina Dildorova,Nevropatolog,1,4.1,26
+48,тов. Уварова Прасковья Андреевна,Pediatr,25,4.2,31
+49,Sanjarov Sarvar,Pediatr,12,4.9,12
+50,Sakinayeva Muizza,Pediatr,2,4.7,32
+51,Екатерина Федоровна Прохорова,Pediatr,14,4.8,30
+52,Yunus Akbarov,Nevropatolog,29,3.8,27
+53,Roger Wiggins,Kardiolog,6,4.2,28
+54,Mumtoz Roziyayeva,Terapevt,39,4.2,24
+55,Зайцева Евдокия Никифоровна,Terapevt,38,4.6,20
+56,Mursalinaeva Mehrimoh,Kardiolog,36,4.7,44
+57,Muhammadyusuf Akbarov,Pediatr,14,4.6,13
+58,Shannon Smith,Stomatolog,13,3.6,24
+59,Якушев Фирс Фадеевич,Nevropatolog,20,,47
+60,Dildorova Bonu,Kardiolog,2,4.4,34
+61,Muhammad Gabriyelov,Terapevt,40,3.7,27
+62,Лидия Егоровна Давыдова,Pediatr,16,3.8,37
+63,Shahnoza Nilufarova,Pediatr,9,4.1,23
+64,Борисова Маргарита Тимофеевна,Nevropatolog,7,4.2,45
+65,Leah Miller,Kardiolog,34,4.8,24
+66,Saida Muzayyanova,Terapevt,17,3.8,15
+67,Susan Greene,Pediatr,34,4.1,15
+68,Safinayeva Maftuna,Terapevt,4,4.9,50
+69,Munisayeva Habiba,Nevropatolog,36,4.2,13
+70,Afruza Muhsinova,Terapevt,28,3.6,40
+71,Марфа Геннадиевна Петухова,Stomatolog,18,4.1,14
+72,Asilbekov Akmal,Xirurg,39,4.3,10
+73,Михеева Эмилия Андреевна,Xirurg,17,,22
+74,Андреев Азарий Еремеевич,Pediatr,25,4.6,13
+75,Зимин Викентий Федотович,Xirurg,12,3.7,29
+76,Gerald Nunez,Pediatr,25,4.4,36
+77,Holly Cummings,Nevropatolog,22,4.1,30
+78,Jasminova Odina,Terapevt,35,4.4,37
+79,Jessica Williams,Terapevt,13,3.6,22
+80,Malak Madinaeva,Stomatolog,16,3.7,41
+81,Alexander Pitts,Nevropatolog,33,4.7,31
+82,Стрелкова Ольга Григорьевна,Nevropatolog,12,3.9,15
+83,Zinnurova Laylo,Pediatr,4,4.1,48
+84,Bridget Jackson,Nevropatolog,4,3.8,25
+85,Sakinayeva Mushtariy,Terapevt,22,4.0,26
+86,Muhammadaziz Javohirov,Kardiolog,3,3.9,22
+87,Лазарев Лукьян Всеволодович,Xirurg,37,4.5,13
+88,Громова Октябрина Геннадьевна,Nevropatolog,13,4.1,23
+89,Nurmuhammad Xolidov,Terapevt,38,4.4,43
+90,Агафья Юльевна Крюкова,Pediatr,8,4.0,18
+91,Feruzova Musfira,Pediatr,10,4.6,39
+92,Scott White,Nevropatolog,26,4.9,14
+93,Sylvia Clark,Terapevt,25,3.6,42
+94,Rachel Rodriguez,Stomatolog,20,3.9,47
+95,Traci Ross,Pediatr,7,3.7,24
+96,Timothy Gutierrez,Kardiolog,17,4.8,25
+97,Stephen Carrillo,Nevropatolog,26,3.6,34
+98,Muslima Mohinurova,Xirurg,16,3.6,37
+99,Salohiddinov Shahzoda,Nevropatolog,38,4.8,50
+100,Красильникова Елизавета Леонидовна,Xirurg,18,3.7,38
+101,Shahzodov Ja’far,Kardiolog,33,4.2,21
+102,Доронина Марфа Федоровна,Terapevt,30,4.3,11
+103,Brianna Walker,Xirurg,35,4.2,21
+104,Julie Wheeler,Pediatr,4,3.7,28
+105,Abdumalik Saddamov,Stomatolog,17,4.5,11
+106,Варвара Васильевна Селиверстова,Stomatolog,27,3.8,46
+107,Пелагея Филипповна Емельянова,Nevropatolog,14,4.1,43
+108,Muhammadaminov Yusuf,Terapevt,35,4.0,45
+109,Larry Macdonald DDS,Stomatolog,30,4.3,30
+110,Jamie Acosta,Xirurg,15,4.9,43
+111,Doniyor Mironshohov,Terapevt,17,3.6,12
+112,Mustafayev Damir,Nevropatolog,9,4.4,49
+113,Angela Patterson,Nevropatolog,19,3.8,50
+114,Sevara Laylova,Terapevt,24,,40
+115,Amber Gray,Stomatolog,21,3.7,14
+116,Miron Yahyoev,Stomatolog,29,5.0,32
+117,Лапин Наум Ануфриевич,Stomatolog,26,5.0,33
+118,Чернов Измаил Вилорович,Xirurg,5,4.4,43
+119,Sakinayeva Iymona,Xirurg,4,4.0,41
+120,Jessica Bryan,Terapevt,33,4.9,33
+121,Галактион Еремеевич Симонов,Terapevt,7,,38
+122,Amina Kumushova,Pediatr,39,4.0,47
+123,Heidi Ochoa,Terapevt,18,4.7,32
+124,Любим Ермолаевич Дроздов,Stomatolog,23,3.7,42
+125,Scott Ford,Nevropatolog,6,4.3,16
+126,Muhammadyasinov Abbos,Pediatr,2,4.9,20
+127,Орехов Гурий Ярославович,Kardiolog,29,,50
+128,Saminova Sarvinoz,Terapevt,18,,31
+129,Тетерина Виктория Евгеньевна,Kardiolog,36,5.0,17
+130,Abbos Dovudov,Terapevt,33,,26
+131,Борислав Вячеславович Блохин,Nevropatolog,39,5.0,27
+132,Агап Давидович Доронин,Kardiolog,24,4.3,46
+133,Dovud Shahzodov,Stomatolog,38,,35
+134,Лора Степановна Лебедева,Nevropatolog,12,4.5,45
+135,Anisayeva Ifora,Stomatolog,5,4.4,27
+136,Autumn Huffman,Stomatolog,14,4.1,30
+137,George Jones,Xirurg,12,4.1,25
+138,Екатерина Наумовна Беспалова,Stomatolog,7,4.7,47
+139,Farangizova Muzayyana,Pediatr,36,3.6,36
+140,Климент Адрианович Осипов,Stomatolog,20,3.6,42
+141,Sara Harris,Nevropatolog,2,4.9,29
+142,Albert Thompson,Nevropatolog,18,4.8,37
+143,Носов Пахом Андреевич,Nevropatolog,11,4.8,30
+144,Roger Nelson,Terapevt,16,,40
+145,Michael Armstrong,Xirurg,6,4.1,13
+146,Miguel Roberts,Kardiolog,39,3.9,39
+147,Asma Bonueva,Stomatolog,33,,39
+148,Николай Бориславович Молчанов,Terapevt,24,3.7,13
+149,Григорьева Оксана Леоновна,Pediatr,23,3.6,13
+150,Мартынов Юрий Давидович,Pediatr,24,4.6,44
